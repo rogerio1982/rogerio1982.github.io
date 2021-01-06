@@ -1,27 +1,15 @@
-## Welcome to GitHub Pages
+## Quem sou eu?
 
-You can use the [editor on GitHub](https://github.com/rogerio1982/rogerio1982.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Professor, desenvolvedor e Cientista de dados
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Conhecimentos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Front: react
+Back: python
+Mobile: kotlin 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+**Bold** and 
 
 [Link](url) and ![Image](src)
 ```
